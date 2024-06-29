@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RUSHIKESH GAWANDE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **My Portfolio & education-management-system**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RushiG17](https://github.com/RushiG17)
 
