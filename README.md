@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RUSHIKESH GAWANDE</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Paytm close for practice purpose**
+- 🔭 I’m currently working on **Learning Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RushiG17](https://github.com/RushiG17)
 
