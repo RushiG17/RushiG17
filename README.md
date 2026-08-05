@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm RUSHIKESH GAWANDE</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on **Uber**
+- 🔭 I’m currently working on **E commerce website**
 
 - 👨‍💻 All of my projects are available at [https://github.com/RushiG17](https://github.com/RushiG17)
 
